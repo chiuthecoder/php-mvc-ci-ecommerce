@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<label>Description</label>
 			<input type="text" name="description" value="<?= $product['description']; ?>">
 			<label>Price</label>
-			<input type="text" name="price" value="<?= $product['price']; ?>"
+			<input type="text" name="price" value="<?= $product['price']; ?>">
 
 			<hr>
 			<a href="/"><button>Go Back</button></a>
